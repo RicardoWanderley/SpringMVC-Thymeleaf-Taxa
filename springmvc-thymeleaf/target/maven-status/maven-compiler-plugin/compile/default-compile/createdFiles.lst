@@ -1,0 +1,3 @@
+br\com\ricardowanderley\springmvc\config\view\WebConfig.class
+br\com\ricardowanderley\springmvc\controller\TaxaController.class
+br\com\ricardowanderley\springmvc\config\init\AppInitializer.class
